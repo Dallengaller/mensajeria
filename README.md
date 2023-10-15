@@ -1,2 +1,2 @@
 # mensajeria
-# Maquetaciion del proyecto de mensajeria
+# Maquetación del proyecto de mensajeria para Desafio Latam.
